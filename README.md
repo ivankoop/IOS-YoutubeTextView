@@ -6,7 +6,7 @@ This is a simple textView that supports youtube iframe.
 Instead of a webview it creates an thumbnail of the youtube video with a link of the video that redirects to youtube
 app or the default browser.
 
-# How to use
+## How to use
 you have to enable links on your textView for this to work.
 
 ```swift
@@ -15,7 +15,7 @@ you have to enable links on your textView for this to work.
   YoutubeTextView.setText(text: your_html_text);
 ```
 
-# License
+## License
 
 ```
 MIT License
